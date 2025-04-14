@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s5hwB8RXaJg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaque\\source\\repos\\Teste\\Teste\\Teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaque\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
